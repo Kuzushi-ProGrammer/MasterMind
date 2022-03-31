@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "MasterMind", "MasterMind\MasterMind.pyproj", "{E693B7E2-A18A-418E-B022-5B5C1680CBB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E693B7E2-A18A-418E-B022-5B5C1680CBB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E693B7E2-A18A-418E-B022-5B5C1680CBB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8726EED1-F465-494F-882F-CAE33A1504DD}
+	EndGlobalSection
+EndGlobal
